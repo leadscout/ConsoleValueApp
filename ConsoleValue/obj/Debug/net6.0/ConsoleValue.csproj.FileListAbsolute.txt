@@ -1,0 +1,15 @@
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Debug\net6.0\ConsoleValue.exe
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Debug\net6.0\ConsoleValue.deps.json
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Debug\net6.0\ConsoleValue.runtimeconfig.json
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Debug\net6.0\ConsoleValue.dll
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Debug\net6.0\ref\ConsoleValue.dll
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Debug\net6.0\ConsoleValue.pdb
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ConsoleValue.csproj.AssemblyReference.cache
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ConsoleValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ConsoleValue.AssemblyInfoInputs.cache
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ConsoleValue.AssemblyInfo.cs
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ConsoleValue.csproj.CoreCompileInputs.cache
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ConsoleValue.dll
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ref\ConsoleValue.dll
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ConsoleValue.pdb
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\obj\Debug\net6.0\ConsoleValue.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Release\net6.0\publish\ConsoleValue.exe
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Release\net6.0\publish\ConsoleValue.dll
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Release\net6.0\publish\ConsoleValue.deps.json
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Release\net6.0\publish\ConsoleValue.runtimeconfig.json
+C:\Users\Matevz\source\repos\ConsoleValueApp\ConsoleValue\bin\Release\net6.0\publish\ConsoleValue.pdb
